@@ -1,0 +1,65 @@
+<script type="module">
+    import Vue from 'https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.esm.browser.min.js'
+
+    const page = new Vue({
+        el: '#landingPage',
+        data: {
+            cards: [ 
+                    {
+                        sectionName: 'Create and Manage Your Content with Liferay DXP',
+                        sectionURL: 'create-and-manage-your-content-with-liferay-dxp.html',
+                        showAll: false,
+                        subsections: [    
+                            {
+                                sectionName: 'Introduction',
+                                sectionURL: 'create-and-manage-your-content-with-liferay-dxp/intro.html',
+                            },
+                            {
+                                sectionName: 'Organize Content with Categories',
+                                sectionURL: 'create-and-manage-your-content-with-liferay-dxp/exercises-organize-content-with-asset-libraries.html',
+                            },
+                            {
+                                sectionName: 'Organize Content with Categories and Tags',
+                                sectionURL: 'create-and-manage-your-content-with-liferay-dxp/exercises-organize-content-with-categories-and-tags.html',
+                            },
+                            {
+                                sectionName: 'Creating the Role Change Request Object',
+                                sectionURL: 'create-and-manage-your-content-with-liferay-dxp/exercises-organize-content-with-folders.html',
+                            },
+                            {
+                                sectionName: 'Creating the Role Change Request App',
+                                sectionURL: 'create-and-manage-your-content-with-liferay-dxp/exercises-present-content-with-display-page-templates.html',
+                            },
+                        ]
+                    },
+                    {
+                        sectionName: '',
+                        sectionURL: '.html',
+                        showAll: false,
+                        subsections: [    
+                            {
+                                sectionName: 'Introduction',
+                                sectionURL: '/intro.html',
+                            },
+                            {
+                                sectionName: 'Organize Content with Categories',
+                                sectionURL: '.html',
+                            },
+                            {
+                                sectionName: 'Organize Content with Categories and Tags',
+                                sectionURL: '.html',
+                            },
+                            {
+                                sectionName: 'Creating the Role Change Request Object',
+                                sectionURL: '.html',
+                            },
+                            {
+                                sectionName: 'Creating the Role Change Request App',
+                                sectionURL: '.html',
+                            },
+                        ]
+                    },
+                ]
+            }
+    })
+</script>
