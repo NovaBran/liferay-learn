@@ -1,28 +1,24 @@
-<div class="page"></div>
-
 # Secure Your Liferay DXP Platform
-
-<div class="ahead">
   
-#### Learning Objectives
+## Learning Objectives
 
 * Understand what security tools are built into Liferay DXP
 * Learn how to add security measures to an instance of Liferay
 	
-#### Tasks to Accomplish 
+## Tasks to Accomplish 
 
 * Create a new Password Policy
 * Enable CAPTCHA for Message Boards and Forms
 
-#### Exercise Prerequisites
+## Exercise Prerequisites
 
 * Unzipped module exercise files in the following folder structure:
-	- Windows: <code>C:\liferay</code>
-	- Unix Systems: <code>[user-home]/liferay</code>
+	- Windows: `C:\liferay`
+	- Unix Systems: `[user-home]/liferay`
 * Liferay DXP 7.4 set up and running
     - If you have not started your instance yet, first, make sure you have downloaded Docker, then use the following commands to get and start the Liferay Docker Image: 
-        * docker pull liferay/[product]:[version]
-        * docker run -it -m 8g -p 8080:8080 liferay/[product]:[version]
+        * `docker pull liferay/[product]:[version]`
+        * `docker run -it -m 8g -p 8080:8080 liferay/[product]:[version]`
 	- Once started, set up the instance with the following basic configuration:
 		* Portal Name: Mondego
 		* First Name: Test
@@ -34,9 +30,3 @@
 * The Organization _Mondego Investments_ created
 	- See the Add Users and Manage Permissions with Liferay DXP module for more information on Organizations
 * _Require strangers to verify their email address_ disabled from the User Authentication section of the Control Panel under Instance Settings
-
-</div>
-
-<h2> Table of Contents </h2>
-
-TABLE OF CONTENTS
