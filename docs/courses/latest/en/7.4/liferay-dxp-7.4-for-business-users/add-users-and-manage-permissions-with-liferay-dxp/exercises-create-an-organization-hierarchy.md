@@ -5,56 +5,56 @@
 * Create Mondego Organization Sites 
 * Assign a Mondego User to a Mondego Organization 
 
-### Create a New Mondego Investments Organization 
+## Create a New Mondego Investments Organization 
 1. **Sign In** as a main administrative User. 
 	- If you are proceeding immediately from the _Create an Organization Hierarchy_ exercise, you should be signed in as Elliot Quinn with the following credentials: 
 		- Email Address: elliot.quinn@mondego.com 
 		- Password: gr0upt3st 
-* **Open** the _Global Menu_. 
-* **Go to** `Control Panel` &rarrw `Users and Organizations`. 
-* **Click** on the _Organizations_ tab. 
-* **Click** the _Add_ icon at the top right to add a new Parent Organization. 
-* **Type** `Mondego Investments` for the _Name_. 
-* **Click** _Save_ at the bottom. 
+2. **Open** the _Global Menu_. 
+3. **Go to** `Control Panel` &rarr; `Users and Organizations`. 
+4. **Click** on the _Organizations_ tab. 
+5. **Click** the _Add_ icon at the top right to add a new Parent Organization. 
+6. **Type** `Mondego Investments` for the _Name_. 
+7. **Click** _Save_ at the bottom. 
 
-### Create a Sub-Organization for Investment Marketing 
+## Create a Sub-Organization for Investment Marketing 
 1. **Click** the _Back_ icon at the top left. 
-* **Click** on the _Options_ icon to the right of the _Mondego Investments_ organization. 
-* **Click** _Add Organization_. 
-* **Type** `Investment Marketing` for the _Name_. 
-* **Type** `marketing` in the _Tags_ field. 
-* **Press** _Enter_ to add the new tag. 
-* **Type** `investments` in the _Tags_ field. 
-* **Press** _Enter_ to add the new tag. 
-* **Click** _Save_ at the bottom. 
+2. **Click** on the _Options_ icon to the right of the _Mondego Investments_ organization. 
+3. **Click** _Add Organization_. 
+4. **Type** `Investment Marketing` for the _Name_. 
+5. **Type** `marketing` in the _Tags_ field. 
+6. **Press** _Enter_ to add the new tag. 
+7. **Type** `investments` in the _Tags_ field. 
+8. **Press** _Enter_ to add the new tag. 
+9. **Click** _Save_ at the bottom. 
 
-### Create an Organization Site for Investment Marketing 
+## Create an Organization Site for Investment Marketing 
 1. **Click** _Organization Site_ in the left menu. 
-* **Click** the _Create Site_ toggle. 
-* **Click** _Save_ at the bottom. 
+2. **Click** the _Create Site_ toggle. 
+3. **Click** _Save_ at the bottom. 
 
-### Create a Sub-Organization for Investment Advisors 
+## Create a Sub-Organization for Investment Advisors 
 1. **Click** the _Back_ (<) icon to return to the list of _Mondego Investments_ sub-organizations. 
-* **Click** the _Add_ button at the top right. 
-* **Choose** _New Organization_. 
-* **Type** `Investment Advisors` for the _Name_. 
-* **Type** `advisors` in the _Tags_ field. 
-* **Press** _Enter_ to add the new tag. 
-* **Type** `investments` in the _Tags_ field. 
-* **Press** _Enter_ to add the new tag. 
-* **Click** _Save_ at the bottom. 
+2. **Click** the _Add_ button at the top right. 
+3. **Choose** _New Organization_. 
+4. **Type** `Investment Advisors` for the _Name_. 
+5. **Type** `advisors` in the _Tags_ field. 
+6. **Press** _Enter_ to add the new tag. 
+7. **Type** `investments` in the _Tags_ field. 
+8. **Press** _Enter_ to add the new tag. 
+9. **Click** _Save_ at the bottom. 
 
-### Create an Organization Site for Investment Advisors 
+## Create an Organization Site for Investment Advisors 
 1. **Click** _Organization Site_ in the left menu. 
-* **Click** the _Create Site_ toggle. 
-* **Click** _Save_ at the bottom. 
+2. **Click** the _Create Site_ toggle. 
+3. **Click** _Save_ at the bottom. 
 
-### Assign Naomi Engel to the Investment Marketing Organization 
+## Assign Naomi Engel to the Investment Marketing Organization 
 1. **Click** the _Back_ (<) icon to return to the list of _Mondego Investments_ sub-organizations. 
-* **Click** on the _Options_ icon to the right of _Investment Marketing_. 
-* **Click** _Assign Users_. 
-* **Click** the checkbox next to _Naomi Engel_. 
-* **Click** _Done_. 
+2. **Click** on the _Options_ icon to the right of _Investment Marketing_. 
+3. **Click** _Assign Users_. 
+4. **Click** the checkbox next to _Naomi Engel_. 
+5. **Click** _Done_. 
 
 ---
 
