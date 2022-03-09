@@ -1,14 +1,12 @@
 # Improve Sites with Liferay DXP's Modern Tools
-
-<div class="ahead">
   
-#### Learning Objectives
+## Learning Objectives
 
 * Learn how to use Content Pages to create dynamic and engaging web pages
 * Understand how Master Page Templates and Style Books can be used to define common page elements and provide uniform styling
 * Learn how to use Users and Experiences to provide unique, tailored Site experiences for different Users
 	
-#### Tasks to Accomplish 
+## Tasks to Accomplish 
 
 * Create the Mondego Community Site
 * Create a Content Page for the Mondego Community Site
@@ -17,7 +15,7 @@
 * Create the Mondego Employees Experience on the Mondego Community Site
 * Add a Custom Navigation Bar to the Welcome Page
 
-#### Exercise Prerequisites
+## Exercise Prerequisites
 
 * Liferay DXP 7.4 set up and running
     - If you have not started your instance yet, first, make sure you have downloaded Docker, then use the following commands to get and start the Liferay Docker Image: 
@@ -32,11 +30,3 @@
 * You should also have at least one additional User, Naomi Engel, created.
    - Uncheck _Require strangers to verify their email address_ in the User Authentication section of the Control Panel under Instance Settings
    - For more on creating Users, consult the module Add Users and Manage Permissions.
-
-
-
-</div>
-
-<h2> Table of Contents </h2>
-
-TABLE OF CONTENTS
