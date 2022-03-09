@@ -1,19 +1,13 @@
-<img src="images/cover.png" />
-
-<div class="page"></div>
-
 # Create and Manage Your Content with Liferay DXP
 
-<div class="ahead">
-
-#### Learning Objectives
+## Learning Objectives
 
 * Learn how Asset Libraries can be used to share content across Sites
 * Understand the ways in which Assets can be related to one another through the use of metadata
 * Learn how folders can be used to further organize Assets
 * Understand how Display Pages can be used to dynamically display Assets
 
-#### Tasks to Accomplish
+## Tasks to Accomplish
 
 * Create an Asset Library
 * Add multiple Assets to the platform
@@ -27,11 +21,11 @@
 * Display Assets using Display Pages
 * Add an External Video Link to a Page
 
-#### Exercise Prerequisites
+## Exercise Prerequisites
 
 * Unzipped module exercise files in the following folder structure:
-	* Windows: <code>C:\liferay</code>
-	* Unix Systems: <code>[user-home]/liferay</code>
+	* Windows: `C:\liferay`
+	* Unix Systems: `[user-home]/liferay`
 * A Liferay DXP 7.4 instance up and running
     - If you have not started your instance yet, first, make sure you have downloaded Docker, then use the following commands to get and start the Liferay Docker Image: 
         * docker pull liferay/[product]:[version]
@@ -43,9 +37,3 @@
         * Email: test@marvinrobotics.com
     - Check out the Liferay Foundations: Introduction to Liferay DXP course for more information on starting a new instance of Liferay DXP
 * A second Site called Marvin Robotics Store created using the Minium Accelerator
-
-</div>
-
-<h2> Table of Contents </h2>
-
-TABLE OF CONTENTS
