@@ -7,14 +7,14 @@
 
 ## Create a Site Template for Mondego Regional Offices 
 1. **Open** the _Global Menu_. 
-2. **Go to** _`Control Panel` &rarr; `Sites` &rarr; `Site Templates`_ in the _Menu_. 
+2. **Go to** `Control Panel` &rarr; `Sites` &rarr; `Site Templates` in the _Menu_. 
 3. **Click** the _Add_ icon near the top right. 
 4. **Type** `Regional Bank Office Site` as the _Name_. 
 5. **Type** `A site template for Mondego's regional bank offices` as the _Description_. 
 6. **Click** _Save_. 
 7. **Click** the _Regional Bank Office Site_. 
 	- This will open up our Site Template in a new tab. 
-8. **Go to** _`Site Builder` &rarr; `Pages`_ in the _Site Administration_ panel. 
+8. **Go to** `Site Builder` &rarr; `Pages` in the _Site Administration_ panel. 
 9. **Click** the _Options_ icon next to the default _Home_ Page. 
 10. **Choose** _Delete_. 
 11. **Click** _OK_ in the pop-up asking if you are sure you want to delete this. 
@@ -81,31 +81,31 @@
 19. **Click** the _Back_ (<) icon. 
 
 ## Create a New Site Using the New Site Template 
-1. **Go to** _`Control Panel` &rarr; `Sites` &rarr; `Sites`_ in the _Global Menu_. 
+1. **Go to** `Control Panel` &rarr; `Sites` &rarr; `Sites` in the _Global Menu_. 
 2. **Click** the _Options_ icon next to _Mondego Group_. 
 3. **Choose** _Add Child Site_. 
 4. **Choose** _Regional Bank Office Site_. 
 5. **Type** `Mondego North America` as the _Name_. 
 	- Leave the checkbox unchecked. 
 6. **Click** the _Save_ button at the bottom. 
-7. **Click** on _`Site Builder` &rarr; `Pages`_ in the _Site Administration_ panel for the _Mondego North America_ Site. 
+7. **Click** on `Site Builder` &rarr; `Pages` in the _Site Administration_ panel for the _Mondego North America_ Site. 
 	* You'll see that the Pages we created in the template have been generated for this Site. 
 
 ## Create Two More Regional Bank Office Sites with the Site Template 
-1. **Go to** _`Control Panel` &rarr; `Sites` &rarr; `Sites`_ in the _Global Menu_. 
+1. **Go to** `Control Panel` &rarr; `Sites` &rarr; `Sites` in the _Global Menu_. 
 2. **Click** the _Options_ icon next to _Mondego Group_. 
 3. **Choose** _Add Child Site_. 
-* **Click** _Regional Bank Office Site_ for the Site template. 
-* **Type** `Mondego UK` as the _Name_. 
-* **Click** the _Save_ button. 
-* **Go to** _`Control Panel` &rarr; `Sites` &rarr; `Sites`_ in the _Global Menu_. 
-* **Click** the _Options_ icon next to _Mondego Group_. 
-* **Choose** _Add Child Site_. 
-* **Click** _Regional Bank Office Site_ for the Site template. 
-* **Type** `Mondego Japan` as the _Name_. 
-* **Click** the _Save_ button. 
-* **Go to** _`Control Panel` &rarr; `Sites` &rarr; `Sites`_ in the _Global Menu_. 
-* **Click** the _Mondego Group_ Site to see the Child Sites we created above. 
+4. **Click** _Regional Bank Office Site_ for the Site template. 
+5. **Type** `Mondego UK` as the _Name_. 
+6. **Click** the _Save_ button. 
+7. **Go to** `Control Panel` &rarr; `Sites` &rarr; `Sites` in the _Global Menu_. 
+8. **Click** the _Options_ icon next to _Mondego Group_. 
+9. **Choose** _Add Child Site_. 
+10. **Click** _Regional Bank Office Site_ for the Site template. 
+11. **Type** `Mondego Japan` as the _Name_. 
+12. **Click** the _Save_ button. 
+13. **Go to** `Control Panel` &rarr; `Sites` &rarr; `Sites` in the _Global Menu_. 
+14. **Click** the _Mondego Group_ Site to see the Child Sites we created above. 
 
 ---
 
