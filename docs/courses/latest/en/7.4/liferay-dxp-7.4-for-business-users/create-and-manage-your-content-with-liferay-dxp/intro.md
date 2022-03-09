@@ -36,4 +36,8 @@
         * Last Name: Test
         * Email: test@marvinrobotics.com
     - Check out the Liferay Foundations: Introduction to Liferay DXP course for more information on starting a new instance of Liferay DXP
+<<<<<<< HEAD
 * A second Site called Marvin Robotics Store created using the Minium Accelerator
+=======
+* A second Site called Marvin Robotics Store created using the Minium Accelerator
+>>>>>>> Reformatted modules 3 and 4
