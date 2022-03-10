@@ -1,4 +1,4 @@
-# Improve Sites with Liferay dxps Modern Tools
+# Improve Sites with Liferay DXPs Modern Tools
 
 ```{toctree}
 :maxdepth: 2

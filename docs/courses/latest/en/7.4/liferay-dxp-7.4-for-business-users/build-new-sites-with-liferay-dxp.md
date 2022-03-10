@@ -1,4 +1,4 @@
-# Create Content Review and Publication Processes with Liferay DXP
+# Build New Sites with Liferay DXP
 
 ```{toctree}
 :maxdepth: 2
