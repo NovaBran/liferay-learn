@@ -19,8 +19,8 @@
     * Unix Systems: `[user-home]/liferay`
 * A Liferay DXP 7.4 instance up and running
         - If you have not started your instance yet, first, make sure you have downloaded Docker, then use the following commands to get and start the Liferay Docker Image: 
-        * docker pull liferay/[product]:[version]
-        * docker run -it -m 8g -p 8080:8080 liferay/[product]:[version]
+        * `docker pull liferay/[product]:[version]`
+        * `docker run -it -m 8g -p 8080:8080 liferay/[product]:[version]`
     - Once started, set up the instance with the following basic configuration:
         * Portal Name: Marvin Robotics
         * First Name: Test
