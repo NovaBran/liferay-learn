@@ -1,5 +1,7 @@
 # Using Liferay Objects
-  
+
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/o56u1bHQIjc 
+
 ## Learning Objectives
 
 * Learn how to create custom Objects in Liferay DXP

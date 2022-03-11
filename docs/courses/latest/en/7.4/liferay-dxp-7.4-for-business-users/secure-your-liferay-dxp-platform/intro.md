@@ -1,5 +1,7 @@
 # Secure Your Liferay DXP Platform
   
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/dxl9QxBi-xY
+
 ## Learning Objectives
 
 * Understand what security tools are built into Liferay DXP

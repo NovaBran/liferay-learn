@@ -1,6 +1,6 @@
 # Organize Content with Folders 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/5WpRCh5FiHQ
 
 ## Exercise Goals 
 

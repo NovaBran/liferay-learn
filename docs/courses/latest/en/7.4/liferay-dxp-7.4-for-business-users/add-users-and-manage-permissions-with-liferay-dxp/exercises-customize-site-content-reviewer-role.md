@@ -1,6 +1,6 @@
 # Customize the Site Content Reviewer Role 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/bYdmKytC9bs
 
 ## Exercise Goals 
 * Modify the _Site Content Reviewer_ Role to include the following: 

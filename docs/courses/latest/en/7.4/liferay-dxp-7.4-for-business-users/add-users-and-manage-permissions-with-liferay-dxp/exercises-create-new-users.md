@@ -1,6 +1,6 @@
 # Create New Users 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/dQtziaK12bw
 
 ## Exercise Goals 
 

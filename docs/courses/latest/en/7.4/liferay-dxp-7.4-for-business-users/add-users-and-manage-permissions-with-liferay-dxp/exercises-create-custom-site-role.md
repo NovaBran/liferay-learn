@@ -1,6 +1,6 @@
 # Create a Custom Site Role 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/crKkQtShfqc
 
 ## Exercise Goals 
 * Create a Site Content Creator Role that allows the web content team to do the following: 

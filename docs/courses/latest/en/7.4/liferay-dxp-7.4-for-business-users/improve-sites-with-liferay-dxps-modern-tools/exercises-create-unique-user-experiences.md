@@ -1,6 +1,6 @@
-# Create Unique User Experiences 
+# Exercise: Create Unique User Experiences 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/-NWR91BD0oU
 
 ## Exercise Goals 
 
