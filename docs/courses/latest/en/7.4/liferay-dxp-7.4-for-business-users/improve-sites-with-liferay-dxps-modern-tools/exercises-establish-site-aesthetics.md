@@ -1,5 +1,7 @@
 # Establish Site Aesthetics 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 
 - Create a Master Page Template for the Mondego Community Site 

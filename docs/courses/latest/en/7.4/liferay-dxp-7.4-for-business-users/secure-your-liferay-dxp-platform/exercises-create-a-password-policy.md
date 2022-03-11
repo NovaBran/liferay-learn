@@ -1,5 +1,7 @@
 # Create a Password Policy 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 
 - Create a New Password Policy for Mondego Employees 

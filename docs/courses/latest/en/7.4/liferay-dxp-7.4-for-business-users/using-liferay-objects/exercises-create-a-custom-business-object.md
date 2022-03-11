@@ -1,5 +1,7 @@
 # Create a Custom Business Object 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 
 - Create a Liferay Object for New Accounts 

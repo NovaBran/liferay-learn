@@ -1,5 +1,7 @@
 # Create an Organization Hierarchy 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 * Create a Basic Mondego Organization Hierarchy 
 * Create Mondego Organization Sites 

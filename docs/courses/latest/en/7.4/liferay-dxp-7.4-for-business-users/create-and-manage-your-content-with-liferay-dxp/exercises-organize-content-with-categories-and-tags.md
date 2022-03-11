@@ -1,5 +1,7 @@
 ## Organize Content with Categories and Tags 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 
 * Create a new Vocabulary for Robotics Products 

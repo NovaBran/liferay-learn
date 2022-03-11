@@ -1,5 +1,7 @@
 # Enable CAPTCHA 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 
 - Enable CAPTCHA for Message Boards 

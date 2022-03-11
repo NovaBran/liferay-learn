@@ -1,5 +1,7 @@
 # Add Sites to the Mondego Platform 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 
 - Create a Site Template for Mondego Regional Office locations 

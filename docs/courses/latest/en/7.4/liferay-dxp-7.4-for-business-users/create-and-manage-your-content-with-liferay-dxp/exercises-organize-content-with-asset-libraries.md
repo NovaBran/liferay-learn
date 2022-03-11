@@ -1,5 +1,7 @@
 # Organize Content with Asset Libraries 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 * Create two new Asset Libraries for Marvin Robotics 
 * Add Content to the Asset Libraries 

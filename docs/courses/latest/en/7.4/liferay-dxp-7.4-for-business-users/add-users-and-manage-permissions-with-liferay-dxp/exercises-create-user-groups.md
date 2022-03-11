@@ -1,5 +1,7 @@
 # Create and Manage User Groups 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 * Create three User Groups for the Mondego Credit Card Tiers 
 * Assign a User to one of the new User Groups 
