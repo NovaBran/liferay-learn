@@ -1,6 +1,6 @@
 ## Organize Content with Categories and Tags 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/HJ54Vp-mNYg
 
 ## Exercise Goals 
 

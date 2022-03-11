@@ -1,6 +1,6 @@
-# Create Content Pages 
+# Exercise: Create Content Pages and Fragments
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/Ks8wbbdXmz4
 
 ## Exercise Goals 
 

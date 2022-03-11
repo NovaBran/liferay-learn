@@ -1,5 +1,7 @@
 # Create Content Review and Publication Processes with Liferay DXP
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/8HM8GxReUcI
+
 ## Learning Objectives
 * Understand how to use workflows for Content in Liferay DXP
 * Learn how to create custom workflows for unique business review processes

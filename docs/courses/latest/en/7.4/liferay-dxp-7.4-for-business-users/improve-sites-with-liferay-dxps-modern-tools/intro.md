@@ -1,4 +1,6 @@
 # Improve Sites with Liferay DXP's Modern Tools
+
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/k20MnrwzL5Y
   
 ## Learning Objectives
 

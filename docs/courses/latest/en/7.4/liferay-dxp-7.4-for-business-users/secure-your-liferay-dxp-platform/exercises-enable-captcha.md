@@ -1,6 +1,6 @@
-# Enable CAPTCHA 
+# Exercise: Enable CAPTCHA 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/wZIJUwKNVWw
 
 ## Exercise Goals 
 

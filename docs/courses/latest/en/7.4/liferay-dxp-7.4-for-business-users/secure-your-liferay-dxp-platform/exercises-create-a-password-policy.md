@@ -1,6 +1,6 @@
-# Create a Password Policy 
+# Exercise: Create a Password Policy 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/rO8YB_WnSuc
 
 ## Exercise Goals 
 

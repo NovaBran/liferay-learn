@@ -1,6 +1,6 @@
 # Gathering and Viewing Feedback 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/JdU9KFOwNiQ 
 
 ## Exercise Goals 
 * Submit Entries for the Customer Satisfaction Survey 

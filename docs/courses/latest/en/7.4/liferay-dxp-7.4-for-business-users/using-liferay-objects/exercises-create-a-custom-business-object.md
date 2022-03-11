@@ -1,6 +1,6 @@
-# Create a Custom Business Object 
+# Exercise: Create a Custom Business Object 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/wjqXrN7-SKg
 
 ## Exercise Goals 
 

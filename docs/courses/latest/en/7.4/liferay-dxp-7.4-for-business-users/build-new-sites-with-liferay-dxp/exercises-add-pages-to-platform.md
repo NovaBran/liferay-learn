@@ -1,6 +1,6 @@
 # Add Pages to the Mondego Platform with Page Templates 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/U2SjonCjw2Q
 
 ## Exercise Goals 
 	

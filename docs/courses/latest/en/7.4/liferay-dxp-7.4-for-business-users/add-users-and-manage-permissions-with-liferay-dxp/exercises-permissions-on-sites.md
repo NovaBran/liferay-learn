@@ -1,6 +1,6 @@
 # Manage Teams and Community Permissions 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/3VPHze0KvHY
 
 ## Exercise Goals 
 * Create a Site Team for the Mondego Publications Site 

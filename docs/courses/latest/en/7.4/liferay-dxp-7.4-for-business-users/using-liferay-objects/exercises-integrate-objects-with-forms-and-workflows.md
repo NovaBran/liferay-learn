@@ -1,6 +1,6 @@
-# Integrate Objects with Forms and Workflows 
+# Exercise: Integrate Objects with Forms and Workflows 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/vkgPvVDQOPY 
 
 ## Exercise Goals 
 

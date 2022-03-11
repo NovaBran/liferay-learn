@@ -1,6 +1,6 @@
 # Publishing Content 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/T2miIsAkqfc
 
 ## Exercise Goals 
 - Enable Publications and Create a New Publication 

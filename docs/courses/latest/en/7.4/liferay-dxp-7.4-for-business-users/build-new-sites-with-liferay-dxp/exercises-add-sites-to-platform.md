@@ -1,6 +1,6 @@
 # Add Sites to the Mondego Platform 
 
-[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/tI0sAorMK_4
 
 ## Exercise Goals 
 
