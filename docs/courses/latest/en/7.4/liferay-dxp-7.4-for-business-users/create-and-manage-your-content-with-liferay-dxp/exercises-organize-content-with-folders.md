@@ -1,5 +1,7 @@
 # Organize Content with Folders 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 
 * Create folders for Documents and Media in the Asset Libraries 

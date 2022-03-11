@@ -1,5 +1,7 @@
 # Manage Site Configuration 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 
 - Create a Private Site on the Mondego platform called Mondego Matters to serve as an employee intranet 

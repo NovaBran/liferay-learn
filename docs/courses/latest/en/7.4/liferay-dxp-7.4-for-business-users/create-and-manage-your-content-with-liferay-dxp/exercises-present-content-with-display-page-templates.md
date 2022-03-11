@@ -1,5 +1,7 @@
 # Present Content with Display Page Templates 
 
+[$LIFERAY_LEARN_YOUTUBE_URL$]=https://www.youtube.com/embed/ja5uBzptelc
+
 ## Exercise Goals 
 
 - Create Display Page Templates for: 
