@@ -22,7 +22,7 @@ Administrators can configure facets. Read about [Search facets](../search-facets
 
 The search engine uses relevance---a score calculated by the search engine---to rank results. Numerous factors contribute to the total score of a returned document, which depend on the search engine being used:
 
-* [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/relevance-intro.html#relevance-intro)
+* [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/7.x/index-modules-similarity.html#bm25)
 * [Solr](https://lucene.apache.org/solr/guide/8_0/relevance.html)
 
 [Result Rankings](../../search-administration-and-tuning/result-rankings.md) help you control the order of returned search results. 
@@ -102,7 +102,7 @@ Highlighting is a helpful visual cue that hints at why the result is returned, b
 
 ## Returning Pages in Search Results
 
-In Liferay 7.2+, [page content](../../../site-building/creating-pages/building-and-managing-content-pages/content-pages-overview.md) from public content pages is returned in the Search Results widget. For example, you can search for text found in a Paragraph fragment on a public page.
+In Liferay 7.2+, [page content](../../../site-building/creating-pages/using-content-pages.md) from public content pages is returned in the Search Results widget. For example, you can search for text found in a Paragraph fragment on a public page.
 
 By contrast, in the latest Liferay 7.2 and 7.3, and all Liferay 7.4+ releases, page content on private content pages and staged pages is not indexed and thus not returned in the list of search results, regardless of the User's permission to view the page.
 

@@ -1,79 +1,89 @@
-# データ管理とプライバシー
+# Data Control and Privacy
 
-Analytics Cloudは、個人のデータとプライバシーを管理するための管理ツールを提供します。 ツールにアクセスするには、 *設定* → *データコントロール & プライバシー*をクリックします。
+Analytics Cloud provides administrative tools for managing individual data and privacy. To access the tools, click **Settings** &rarr; **Data Control & Privacy** .
 
-![さまざまなツールは、設定の［データコントロールとプライバシー］セクションにあります。](./data-control-and-privacy/images/01.png)
+![Different tools are found in the data control and privacy section of settings.](./data-control-and-privacy/images/01.png)
 
-## 保存期間
+<a name="retention-period" />
 
-デフォルトでは、イベントデータと活動していない匿名の個人は13ヶ月間保持されます。 保存期間を13ヶ月から7ヶ月に変更するには、
+## Retention Period
 
-1.  ドロップダウンメニューで［7ヶ月］を選択します。
+By default, event data and inactive anonymous individuals are retained for 13 months. To change the retention period from 13 months to 7 months,
 
-    ![リテンションの変更時には、ポップアップウィンドウで警告が表示されます。](./data-control-and-privacy/images/02.png)
+1. Use the drop-down menu to select 7 months.
 
-2.  変更内容を確認する警告ウィンドウが表示されます。
+    ![A pop-up window shows a warning when changing retention.](./data-control-and-privacy/images/02.png)
 
-3.  *Change Period* をクリックして保存します。
+1. A warning window appears to confirm your change.
+
+1. Click **Change Period** to save.
 
 ```{warning}
 You will permanently lose analytics data that has been recorded over 7 months ago when you make this change.
 ```
 
-## リクエストログ
+<a name="request-log" />
 
-収集した個人のデータを管理することができます。 個別データの閲覧、個別データの削除、個別データの抑制を新たに要求することができます。 たとえば、収集したデータの共有または削除を要求する連絡がくることがあります。
+## Request Log
 
-新しいリクエストを作成したり、過去のリクエストを表示するには、 *管理* ボタンをクリックします。
+Manage and control collected data of individuals with this tool. New requests can be made to access individual data, delete individual data, or suppress individual data. For example, someone may contact you requesting their collected data be shared or deleted.
 
-![新しいリクエストを作成したり、過去のリクエストを確認することができます。](./data-control-and-privacy/images/03.png)
+To create a new request or view previous requests, click the **Manage** button.
 
-過去のリクエストのログが表示されます。 フィルター機能や検索機能を使って、特定のリクエストを探すことができます。 リクエストのZIPファイルをダウンロードするには、リクエストの *ダウンロード* ボタンをクリックします。
+![Create a new request or view previous requests.](./data-control-and-privacy/images/03.png)
 
-新しいリクエストを作成するには
+A log of previous requests appears. Use the filter function or search function to find a particular request. To download a ZIP file of a request, click the **Download** button of the request. 
 
-1.  *リクエスト作成* ボタンをクリックします。
+To create a new request,
 
-    ![新しいリクエストを作成するための新しいウィンドウが開きます。](./data-control-and-privacy/images/04.png)
+1. Click the **Create Request** button.
 
-2.  ジョブタイプを選択します。 ［アクセス］を選択すると、個人に関連して収集されたすべてのデータのダウンロード可能なファイルが作成されます。 ［削除］を選択すると、個人識別情報（PII）が削除され、その個人が抑制リストに登録されます。 ［抑制］を選択すると、それ以降のデータ収集が停止されます。
+    ![A new window opens to create a new request.](./data-control-and-privacy/images/04.png)
 
-3.  新規リクエストのメールを入力します。 また、CSVファイルのメール一覧をアップロードすることもできます。
+1. Select the Job Type. Selecting Access creates a downloadable file of all data collected related to the individual. Selecting Delete removes the Personally Identifiable Information (PII) and places that individual on the suppressed list. Selecting Suppress stops further data collection of the individual.
 
-4.  *保存* をクリックしてリクエストを処理します。
+1. Input an email for the new request. A list of emails in a CSV file can also be uploaded.
 
-過去のリクエストのログは、メインページの *Export Log* ボタンをクリックすることでダウンロードできます。
+1. Click **Save** to process the request. 
 
-![［Export Log］ボタンをクリックすると、過去のリクエストのログをダウンロードすることができます。](./data-control-and-privacy/images/05.png)
+A log of previous requests can be downloaded by clicking on the **Export Log** button on the main page.
 
-開始日と終了日を選択し、CSVログファイルの *ダウンロード* ボタンをクリックします。
+![Click the Export Log button to download a log of previous requests.](./data-control-and-privacy/images/05.png)
 
-## 抑制されたユーザー
+Select a start date and an end date and click the **Download** button for a CSV log file.
 
-ユーザーを抑制することで、個人に対するさらなるデータ収集を停止することができます。 抑制された個人のリストを表示したり、個人の抑制を解除するには、 *管理* ボタンをクリックします。
+<a name="suppressed-users" />
 
-![抑制された個人を表示したり、抑制された個人を解除したりすることができます。](./data-control-and-privacy/images/06.png)
+## Suppressed Users
 
-メールアドレスを入力して、抑止されている人のリストを検索することができます。
+Suppressing a user excludes them from further identity resolution activities. Note, a suppressed user is still considered an anonymous user and is still included in individual or segmented data. To view a list of suppressed individuals or to unsuppress an individual, click the **Manage** button.
 
-抑制を解除するには、対象となる個人を見つけ、 *抑制解除* ボタンをクリックします。
+![View suppressed individuals or unsuppress individuals.](./data-control-and-privacy/images/06.png)
 
-抑制された個人のリストは、メインページの *Export List* ボタンをクリックすることでダウンロードできます。
+Search the list of suppressed individuals by entering an email address. 
 
-![抑制された個人のリストをダウンロードするには、［Export List］ボタンをクリックします。](./data-control-and-privacy/images/07.png)
+To unsuppress, locate the individual and click the **Unsuppress** button.
 
-開始日と終了日を選択し、CSV形式のリストファイルの場合は *ダウンロード* ボタンをクリックします。
+A list of suppressed individuals can be downloaded by clicking on the **Export List** button on the main page.
 
-## Do Not Track機能
+![Click the Export List button to download a list of suppressed individuals.](./data-control-and-privacy/images/07.png)
 
-GDPRおよび多くのデータプライバシー法によると、企業は、訪問者がウェブサイトを閲覧しているときに分析データを収集する前に、同意を求める必要があります。
+Select a start date and an end date and click the **Download** button for a CSV list file.
 
-特定のブラウザからアナリティクスデータが送信されないようにするには、サイト上のJavaScriptで以下のウィンドウ変数を設定してください。
+<a name="do-not-track-feature" />
 
-    window['ac_client_disable_tracking'] = true
+## Do Not Track Feature
+
+According to GDPR and many data privacy laws, businesses are required to ask consent before collecting analytics data when visitors are browsing a website.
+
+To suppress analytics data from being sent by a particular browser, set the following window variable with JavaScript on your site.
+
+```
+window['ac_client_disable_tracking'] = true
+```
 
 ```{important}
 You must implement your own logic to persist user consent either by using a cookie or by saving and loading from your database. Please make sure that the window variable described above is set before the client page is fully loaded.
 ```
 
-あなたのサイトの訪問者は、ブラウザから追跡しないを有効にすることもできます。 ブラウザの [do not track設定についての詳細はこちらです](https://allaboutdnt.com/)。 これを有効にすると、Analytics Cloudによってデータが送信または収集されることはありません。
+Visitors to your site can also choose to enable do not track from their browser. Learn more about the [do not track setting in browsers](https://allaboutdnt.com/) . With this enabled no data is sent or collected by Analytics Cloud. 
