@@ -1,6 +1,12 @@
 # カスタムアセットのトラッキング
 
+```{note}
+カスタムアセットを追跡するには、[event tracking](../events/tracking-events.md)の使用が推奨されます。
+```
+
 Liferay Analytics Cloudは、フォーム、ブログ、ドキュメントとメディア、ウェブコンテンツなどの組み込みのLiferay DXPアセットを検出して分析することができます。 ただし、カスタム アプリ内のアセットを分析するには、アプリの HTML にタグを付ける必要があります。
+
+<a name="asset-events" />
 
 ## アセットイベント
 
@@ -16,6 +22,8 @@ Analytics Cloud JavaScript プラグインには、追跡できる以下のイ�
 
 `AssetSubmitted`: アセットエリアでのフォーム送信。 これは、HTMLフォーム要素の下にサブミットの入力タイプを配置する必要があります。
 
+<a name="required-metadata" />
+
 ## 必要なメタデータ
 
 カスタムエンティティのトラッキングを有効にするには、以下の情報が必要です。 この情報は、リストされた属性を使ってHTMLで指定する必要があります。
@@ -28,11 +36,13 @@ Analytics Cloud JavaScript プラグインには、追跡できる以下のイ�
 
 **アセットのタイトル（文字列、オプション）：** アセットのタイトル。 このためのHTML属性はdata-analytics-asset-titleです。
 
-## アセットイベントのトラッキング
+<a name="tracking-asset-events" />
+
+## アセットイベントの追跡
 
 例えば、カスタムPollsアプリでポールを追跡したい場合、次のようなHTMLを使用することができます。
 
-``` html
+```html
 <div>
 <h1> What's your favorite food? </h1>
 <form action="/submit.php">
@@ -52,7 +62,7 @@ Analytics Cloud JavaScript プラグインには、追跡できる以下のイ�
 
 このポールのイベントを追跡するには、上記の属性を div に追加します。
 
-``` html
+```html
 <div data-analytics-asset-type="custom"
   data-analytics-asset-id="favorite-food-poll"
   data-analytics-asset-category="polls"
@@ -64,20 +74,22 @@ Analytics Cloud JavaScript プラグインには、追跡できる以下のイ�
 ```
 
 ```{note}
-You must add these attributes to each individual asset that you want Analytics Cloud to track. However, you can populate the attributes’ values via a script, therefore automating this process for each asset.
+   これらの属性は、Analytics Cloudにトラッキングさせたい個々のアセットに追加する必要があります。 しかし、スクリプトを使って属性の値を入力することで、アセットごとにこのプロセスを自動化することができます。
 ```
+
+<a name="tracking-downloads" />
 
 ### ダウンロードの追跡
 
 ダウンロードを追跡するには、アクションをトリガーする要素にこの属性をタグ付けする必要があります。
 
-``` html
+```html
 data-analytics-asset-action="download"
 ```
 
 例えば、上記の世論調査は、世論調査の指示を含むPDFファイルのダウンロードリンクを備えています。
 
-``` html
+```html
 <div data-analytics-asset-type="custom"
   data-analytics-asset-id="favorite-food-poll"
   data-analytics-asset-category="polls"

@@ -1,0 +1,89 @@
+<script type="module">
+	import Vue from 'https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.esm.browser.min.js'
+
+	const page = new Vue({
+		el: '#landingPage',
+		data: {
+			cards: [
+				{
+					sectionName: 'Maintenance and Upgrades',
+					showAll: false,
+					subsections: [
+						{
+							name: 'Liferay DXPインスタンスのアップグレード',
+							url: 'using-the-liferay-dxp-service/upgrading-your-liferay-dxp-instance.html'
+						},
+						{
+							name: 'DXPインスタンスを新しいマイナーバージョンにアップデートする',
+							url: 'using-the-liferay-dxp-service/updating-your-dxp-instance-to-a-new-minor-version.html'
+						},
+						{
+							name: 'Liferayサービスへのデプロイ',
+							url: 'using-the-liferay-dxp-service/deploying-to-the-liferay-service.html#deploying-hotfixes'
+						},
+						{
+							name: 'Liferayサービスへのデプロイ',
+							url: 'using-the-liferay-dxp-service/deploying-to-the-liferay-service.html#deploying-licenses'
+						}
+					]
+				},
+				{
+					sectionName: 'Liferay DXPサービスの構成',
+					sectionURL: 'using-the-liferay-dxp-service/configuring-the-liferay-dxp-service.html',
+					showAll: false,
+					subsections: [
+						{
+							name: 'Liferay DXPサービスの構成',
+							url: 'using-the-liferay-dxp-service/configuring-the-liferay-dxp-service.html'
+						},
+						{
+							name: 'Liferayサービス環境変数',
+							url: 'using-the-liferay-dxp-service/liferay-service-environment-variables.html'
+						}
+					]
+				},
+				{
+					sectionName: 'Liferayサービスへのデプロイ',
+					sectionURL: 'using-the-liferay-dxp-service/deploying-to-the-liferay-service.html',
+					showAll: false,
+					subsections: [
+						{
+							name: 'Liferayサービスへのデプロイ',
+							url: 'using-the-liferay-dxp-service/deploying-to-the-liferay-service.html'
+						},
+						{
+							name: 'Liferayサービスへのデプロイ',
+							url: 'using-the-liferay-dxp-service/deploying-to-the-liferay-service.html#deploying-themes-portlets-and-osgi-modules'
+						},
+						{
+							name: 'Liferayサービスへのデプロイ',
+							url: 'using-the-liferay-dxp-service/deploying-to-the-liferay-service.html#building-and-deploying-source-code'
+						}
+					]
+				},
+				{
+					sectionName: 'DXP Cloudでのクラスタリングのセットアップ',
+					sectionURL: 'using-the-liferay-dxp-service/setting-up-clustering-in-dxp-cloud.html',
+					showAll: true,
+					subsections: [
+						{
+							name: 'DXP Cloudでのクラスタリングのセットアップ',
+							url: 'using-the-liferay-dxp-service/setting-up-clustering-in-dxp-cloud.html'
+						},
+					]
+				},
+				{
+					sectionName: 'MySQLクライアントの使用',
+					sectionURL: 'using-the-liferay-dxp-service/using-the-mysql-client.html',
+					showAll: true,
+					subsections: [
+						{
+							name: 'MySQLクライアントの使用',
+							url: 'using-the-liferay-dxp-service/using-the-mysql-client.html'
+						},
+					]
+				}
+			]
+		}
+	})
+</script>
