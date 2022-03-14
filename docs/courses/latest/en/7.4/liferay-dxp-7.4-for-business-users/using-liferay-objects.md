@@ -3,7 +3,6 @@
 ```{toctree}
 :maxdepth: 2
 
-
 using-liferay-objects/ 
 using-liferay-objects/intro.md 
 using-liferay-objects/creating-new-objects.md
