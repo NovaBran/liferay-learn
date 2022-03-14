@@ -3,7 +3,6 @@
 ```{toctree}
 :maxdepth: 2
 
-add-users-and-manage-permissions-with-liferay-dxp/
 add-users-and-manage-permissions-with-liferay-dxp/intro.md
 add-users-and-manage-permissions-with-liferay-dxp/exercises-create-new-users.md
 add-users-and-manage-permissions-with-liferay-dxp/exercises-create-an-organization-hierarchy.md

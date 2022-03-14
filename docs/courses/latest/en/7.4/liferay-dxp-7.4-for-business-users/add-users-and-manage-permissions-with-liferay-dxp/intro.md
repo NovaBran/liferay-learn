@@ -8,6 +8,7 @@
 * Understand how to control permissions for different resources on the platform
 
 ## Tasks to Accomplish
+
 * Get Users set up on the Mondego platform
     * Create User Accounts
     * Create a Hierarchy for Mondego Investments
